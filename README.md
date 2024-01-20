@@ -1,3 +1,7 @@
+# Tic-Tac-Toe
+
+![Untitled design-9](https://github.com/khushipatel04/tic-tac-toe1/assets/98440458/887e451a-0fe3-4d9d-8c43-1e6f83949cc6)
+
 Tic tac toe is a two-player game wherein the players will have to choose either X or O in a 3×3 grid. 
 The first player can choose any position in the grid and both will get one move at a time, one after the other. 
 The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game. 
